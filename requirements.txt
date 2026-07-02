@@ -1,0 +1,4 @@
+pact-python
+pytest
+pytest-asyncio
+faststream[kafka]
