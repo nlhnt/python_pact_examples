@@ -1,4 +1,4 @@
 pact-python
 pytest
 pytest-asyncio
-faststream[kafka]
+faststream[kafka]>=0.7.1,<0.8.0
